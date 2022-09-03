@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="styles.css">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>
+            Survey on Healthy Diet
+        </title>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@600&display=swap');
+        </style>
+    </head>
+    <body>
+<h1>Proteins, What Do You Know?</h1>
+<form id="form">
+    <div id="form-control">
+       <label for="name" id="label-name">
+        Name</label>
+       <input id="name" type="text" placeholder="Enter your name?"> 
+       <label for="age" id="label-age">
+        Age</label>
+       <input id="age" type="text" placeholder="How old are you?">
+       <label for="email" id="label-email">
+        Email Address</label>
+       <input id="email" type="text" placeholder="Email Address">
+    </div> 
+    <div id="form-control">
+<label for="role" id="label-role">
+What best describes you?
+</label>
+<select id="role" name="role">
+    <option value="student">Student</option>
+    <option value="self-employed">Self Employed</option>
+    <option value="9-5">9-5</option>
+    <option value="not-employed">Not Employed</option>
+</select>
+<div id="form-control">
+    <label for="invitation" id="label-inivatation">
+    Would you recommend eating healthy to any of your friends?
+    </label>
+    <label id="ivi1">
+        <input type="radio" name="yes-no-maybe" id="yes" value="yes" checked>Yes
+    </input> 
+ </label>
+ <label id="ivi1">
+    <input type="radio" name="yes-no-maybe" id="no" value="no" >No
+</input> 
+</label>
+<label id="ivi1">
+    <input type="radio" name="yes-no-maybe" id="no" value="maybe"
+>Maybe
+</input> 
+</label>
+    </div>
+    <div id="form-control">
+        <label for="prevent" id="label-prevent">
+            Which of the following is most harmful to Gut healthy?
+            </label>
+<select id="prevent" name="prevent">
+<option value="seed-oils">Seed oil</option>
+<option value="sugar">Sugar</option>
+<option value="salt">Salt</option>
+<option value="soda">Soda</option>
+</select>
+    </div>
+    <div id="form-control">
+        <label for="types" id="label-types">
+           Favorite form of protein
+        </label>
+           <label id="label-types2">
+        <label id="label-types1" for="type1"><input type="checkbox" name="eggs">Eggs</input></label>
+        <label id="label-types1" for="type2"><input type="checkbox" name="Ground-fed-beef">Ground fed beef</input></label>
+        <label id="label-types1" for="type3"><input type="checkbox" name="fish">Fish</input></label>
+        <label id="label-types1" for="type4"><input type="checkbox" name="milk">Milk</input></label>
+    </label>
+    </div>
+    <div>
+        <label id="comment">
+            Comments and Suggestion?</label>
+        <textarea name="comment" id="comment1" placeholder="Enter comments or suggestion here"></textarea>
+    </div>
+    <button type="submit" value="submit" id="submit">Submit</button>
+</form>
+    </body>
+</html>

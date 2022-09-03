@@ -1,0 +1,86 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+<link rel="stylesheet" href="styles.css"/>
+<title id="title" >
+  Tribute Page
+  </title>
+    </head>
+    <body>
+      <h1>Tribute To POP SMOKE</h1>
+      <p>-Living the ultimate drill legacy</p>
+
+      <main id="main">
+        <div class="img-div" id="img-div">
+        <image  src="https://www.networthspot.com/ezoimgfmt/yt3.ggpht.com/a/AGF-l785pGQgovt5xXh-dvDk3g5-CIkR2-R6TbbaXQ=s768-c-k-c0xffffffff-no-rj-mo?ezimgfmt=ng%3Awebp%2Fngcb6%2Frs%3Adevice%2Frscb6-1" alt="popimg" class="center" id="image" >  
+         <figcaption class="img-caption" id="img-caption">"Meet the Woo 2 is the second mixtape by American rapper Pop Smoke"
+         </figcaption>
+          <div class="tribute-info" id="tribute-info">
+<h2>
+  A Timeline of Pop smokes life
+ </h2> 
+ <h3>
+  <legend>
+    <ul>
+<li><b>1999</b> - Born July 20 in Canarsie, Brooklyn to a Jamaican mother, Audrey Jackson a Panamanian father Greg Jackson.Jackson attended nine different schools while growing up in Canarsie, Brooklyn.He played the African drums in his local church as a child. Jackson was expelled from eighth grade for bringing a gun to school and spent two years on house arrest after being charged with possessing a weapon. Jackson started playing basketball as a point and shooting guard. He relocated to Philadelphia to enroll in Rocktop Academy He was later forced to leave after being diagnosed with a heart murmur, and Jackson eventually turned to street life.</li>
+       <li><b>2018</b> - Pop Smoke began his musical career in late 2018 with his debut single "MPR (Panic Part 3 Remix)". Pop Smoke rose to fame with the release of his breakout singles "Welcome to the Party"</li>
+       <li><b>2019</b> - Realeased "Dior" in 2019. He collaborated with UK drill artists and producers, who employed more minimal and aggressive instrumentation than drill artists from Chicago. He released his debut mixtape Meet the Woo in July 2019</li>
+<li><b>2020</b> - His second mixtape, Meet the Woo 2, was released on February 7, 2020, and debuted at number seven on the Billboard 200, becoming the rapper's first top-10 project in the United States.	February 19, 2020 (aged 20), Pop Smoke was murdered during a home invasion in Los Angeles. New York rapper 50 Cent was the executive producer of his posthumous debut studio album, Shoot for the Stars, Aim for the Moon, released on July 3, 2020</li>
+    </ul></legend>
+    <P>On February 19th, at 4:00 AM, a gun was used to take my son from me. You know him as Pop Smoke, we called him 'Shar'. Because of gun violence, I'll never see my son run up the front of our steps, taking them two at a time; he won't ever take my hands again and dance with me; he won't come into my room and muscle pose in the mirror. Gun violence destroys families. It must stop.
+— Audrey Jackson </p>
+</h3> 
+  <address><a href="https://www.instagram.com/realpopsmoke/?hl=en" id="tribute-link" target="_blank">@realpopsmoke</a>
+          </adress>
+          
+        </main> 
+      </body>
+
+** end of undefined **
+
+** start of undefined **
+
+body{
+  text-align: center;
+  background-color: lightgrey;
+  color: brown;
+width: 450px; 
+margin: auto;
+font-family: times new roman;
+}
+h1, p{
+width: 450px; 
+margin: auto;
+}
+h2{
+width: 450px; 
+margin: 0 auto;
+font-size: 20px
+}
+h3{
+font-size: 14px;
+margin-top: 0;
+}
+.center {
+display: block;
+margin-left: auto;
+  margin-right: auto;
+  margin-top: 10;
+  width: 90%;
+  max-width: 100%;
+}
+.img-caption{
+  text-align: center;
+  margin-top: 5;
+  margin-bottom: 5;
+  font-size: 14px
+}
+.tribute-info{
+  text-align: center;
+}
+
+** end of undefined **
+

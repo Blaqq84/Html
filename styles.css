@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+    color: brown;
+      display: grid;
+    justify-content: center;
+}
+#form-control{
+    width: 400px;
+    height: 120px;
+margin: auto;
+}
+label {
+     display: inline-block;
+     margin-bottom: 0px;
+}
+select{
+    display: block;
+}
+
+option{
+    display: grid;
+}
+#label-name{
+    margin-left: 80px;
+    margin-right: 45px;
+}
+#label-age{
+    margin-left: 90px;
+    margin-right: 45px;
+}
+#label-email{
+    margin-left: 50px;
+    margin-right: 20px;
+}
+#label-role {margin-left: 95px;
+}
+#role{margin-left: 120px; margin-bottom: 30px;
+}
+#ivi1 {margin-left: 50px;
+}
+#prevent{margin-left: 150px;
+}
+#submit{
+    margin-top: 30px;
+    margin-left: 150px;
+    background-color: brown;
+    padding: 15px 32px;
+    font-size: larger;
+}
+#label-types{
+    margin-left: 110px;
+}
+#label-types2{
+     
+}
+#label-types1{
+    margin-left: 120px;
+    display: block;
+}
+#comment{
+    margin-left: 100px;
+}
+#comment1{
+    display: grid;
+    margin-left: 70px;
+}
