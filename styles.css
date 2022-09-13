@@ -1,0 +1,119 @@
+body{
+background-color: orange;
+color: black;
+}
+h1{
+    text-align: center;
+  background-color: saddlebrown;
+  animation-name: animate__heartBeat;
+  animation-duration: 10s;
+}
+h2{
+    font-size: large;
+    text-align: center;
+  background-color: saddlebrown;
+  animation-name: animate__heartBeat;
+  animation-duration: 10s;
+}  
+#navbar{
+    text-align: center;
+    word-spacing: 30px;
+}
+ul li{
+    text-align: center;
+display: inline;
+flex-direction: column;
+list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: brown;
+}
+hr{
+    background-color: brown;
+}
+#roll1{
+    font-size: large;
+    text-align: center;
+}
+.roll1a{   
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 20px;
+    align-items: center;
+}
+.roll1b{
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 200px;
+    align-items: center;
+}
+.btn{ 
+    align-items: center;
+    padding: 12px;
+    background-color: saddlebrown;
+    margin-left: 200px;
+    margin-right: 150px;
+}
+.btn2{
+    align-items: center;
+    padding: 12px;
+    background-color: saddlebrown;
+    margin-left: 275px;
+}
+.btn3{
+    margin-left: 565px;
+    padding: 5px;
+    background-color: saddlebrown;
+}
+.imgbutton{
+    text-align: center;
+    display: inline-flex;
+}
+.rol{
+    font-size: large;
+    text-align: center;
+}
+.rol1{
+    font-size: medium;
+    text-align: center;
+}
+.row{
+    font-size: large;
+    text-align: center;
+}
+.row1, .row2, .row3{
+    font-size: medium;
+    font-weight: lighter;
+    text-align: center;
+}
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+}
+.flex-container1{
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+}
+.flex-container2{
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+}
+.form-shape{
+    text-align: center;
+}
+#radio{
+    text-align: center;
+}
+.Sec{
+  margin-left: 550px;
+}
+.Sec1{
+    margin-left: 100px;
+  }
